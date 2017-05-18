@@ -27,6 +27,7 @@ java version "1.8.0_121"
 Java(TM) SE Runtime Environment (build 1.8.0_121-b13)
 Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode)
 `
+If you see the above response or similar to this then you are good to start writing program.
 
 
 ## Step 3 : Download Eclipse to use as an Integrated Development Environment (IDE)
@@ -48,6 +49,9 @@ Click on Create a new Java Project link.
 It will open a new Project dialog where you have to enter the Project Name and click on Finish.
 
 You will be presented with an Eclipse interface with your project name , src and Java library.
+
+## create your first project using the Eclipse IDE.
+
 
 
 
