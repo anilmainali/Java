@@ -16,6 +16,19 @@ Inorder to download and install JRE and Java Development Kit(JDK) you can naviga
 ## Step 2 : Set Environmental Variables
 Inorder to Set Environmental Variables, you can navigate to <a href="http://softwaretestingcafe.com/how-to-set-the-path-and-environment-variables-in-windows-7/?preview=true"> Anil Mainali's Blog Post.</a> where you can follow the step by step tutorial on how to Set Environmental Variables on your Windows 7.
 
+## Step 3 : Verify if Java is successfully installed on your machine.
+- open your command prompt.
+- Type java -version
+
+Sample Response:
+
+`Anils-MBP:~ anilmainali$ java -version
+java version "1.8.0_121"
+Java(TM) SE Runtime Environment (build 1.8.0_121-b13)
+Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode)
+`
+
+
 ## Step 3 : Download Eclipse to use as an Integrated Development Environment (IDE)
 For this tutorial we are going to Download and install Eclipse IDE.For the complete step by step tutorial navigate to <a href="http://softwaretestingcafe.com/how-to-download-eclipse-neon-on-windows-7/"> Anil Mainali's Blog Post.
 
