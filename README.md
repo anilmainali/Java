@@ -18,7 +18,30 @@ When you’re finished with this tutorial, you’ll be able to Download Eclipse 
 ## Is Java Free to Download?
 ## JRE vs JDK
 ## What you need to install in order get started with Java?
+## Install the Necessary Software to learn program in Java
 ## Prerequisites to install IntelliJ IDE
+The steps and tools that you have to install and configure are:
+
+1. Download Java Development Kit 
+
+Inorder to download and install JRE and Java Development Kit(JDK) you can navigate to <a href="http://softwaretestingcafe.com/how-to-download-and-install-java-development-kit-jdk/"> Anil Mainali's Blog Post.</a> where you can follow the step by step tutorial on how to download and intall Java Development Kit on your Windows 7.
+
+2. Set Environmental Variables
+3. Inorder to Set Environmental Variables, you can navigate to <a href="http://softwaretestingcafe.com/how-to-set-the-path-and-environment-variables-in-windows-7/?preview=true"> Anil Mainali's Blog Post.</a> where you can follow the step by step tutorial on how to Set Environmental Variables on your Windows 7.
+
+4. Verify if Java is successfully installed on your machine.
+- open your command prompt.
+- Type java -version
+
+Sample Response:
+
+`Anils-MBP:~ anilmainali$ java -version
+java version "1.8.0_121"
+Java(TM) SE Runtime Environment (build 1.8.0_121-b13)
+Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode)
+`
+
+If you see the above response or similar to this then you are good to start writing program.
 
 # Step 1 — Check whether Java Runtime Environment (JRE) is installed on your computer.
 # Using the Command-line to find Java Versions
@@ -42,29 +65,8 @@ To learn more about Eclipse here are some useful links:
 - Google Plus: https://plus.google.com/+Eclipse
 
 
-## Install the Necessary Software to learn program in Java
-The steps and tools that you have to install and configure are:
 
-## Step 1 : Download Java Development Kit 
 
-Inorder to download and install JRE and Java Development Kit(JDK) you can navigate to <a href="http://softwaretestingcafe.com/how-to-download-and-install-java-development-kit-jdk/"> Anil Mainali's Blog Post.</a> where you can follow the step by step tutorial on how to download and intall Java Development Kit on your Windows 7.
-
-## Step 2 : Set Environmental Variables
-Inorder to Set Environmental Variables, you can navigate to <a href="http://softwaretestingcafe.com/how-to-set-the-path-and-environment-variables-in-windows-7/?preview=true"> Anil Mainali's Blog Post.</a> where you can follow the step by step tutorial on how to Set Environmental Variables on your Windows 7.
-
-## Step 3 : Verify if Java is successfully installed on your machine.
-- open your command prompt.
-- Type java -version
-
-Sample Response:
-
-`Anils-MBP:~ anilmainali$ java -version
-java version "1.8.0_121"
-Java(TM) SE Runtime Environment (build 1.8.0_121-b13)
-Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode)
-`
-
-If you see the above response or similar to this then you are good to start writing program.
 
 ## Hot to invoke java program from the command prompt? 
 
