@@ -20,6 +20,8 @@ When you’re finished with this tutorial, you’ll be able to Download Eclipse 
 ## What you need to install in order get started with Java?
 ## Prerequisites to install IntelliJ IDE
 
+# Step 1 — Check whether Java Runtime Environment (JRE) is installed on your computer.
+
 
 ## Install the Necessary Software to learn program in Java
 The steps and tools that you have to install and configure are:
