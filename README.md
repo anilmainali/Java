@@ -15,6 +15,10 @@ When you’re finished with this tutorial, you’ll be able to Download Eclipse 
 
 ## Brief Java Overview: What is Java?
 ## Why Java?
+## Is Java Free to Download?
+## JRE vs JDK
+## What you need to install in order get started with Java?
+## Prerequisites to install IntelliJ IDE
 
 
 ## Install the Necessary Software to learn program in Java
