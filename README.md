@@ -1,6 +1,16 @@
 # Welcome to my Java Reop
 I am just Getting Started With Java and this repo will act as an repository of all my notes as I dive deep and this repo will serve as a tutorial on How To Get Started with Java for those who has just started learning Java or thinking of getting started with Java.Hope this repo will help you to overcome the fear of learning Java.so, let's get started...
 
+## What to Expect in This Tutorial?
+
+- Brief Java Overview: What is Java
+- What you need to install in order get started with Java
+- Install JDK
+- Download IntelliJ on Windows7 Machine by following step by step instructions which is provided here in this tutorial.
+- Prerequisites for downloading IntelliJ and step by step tutorial on how to install them before downloading IntelliJ .
+- Configure JDK
+- Create first Java Program - HelloWorld
+
 ## What is Java?
 
 ## Install the Necessary Software to learn program in Java
