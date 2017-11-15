@@ -41,7 +41,9 @@ Java(TM) SE Runtime Environment (build 1.8.0_121-b13)
 Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode)
 `
 
-If you see the above response or similar to this then you are good to start writing program.
+If you see the above response or similar to this then you are good to start writing program.ere
+
+# todo from here....>>>>>>>>
 
 # Step 1 — Check whether Java Runtime Environment (JRE) is installed on your computer.
 # Using the Command-line to find Java Versions
