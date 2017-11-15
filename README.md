@@ -28,6 +28,8 @@ When you’re finished with this tutorial, you’ll be able to Download Eclipse 
 ## By Navigating to the browser
 
 # Step 2 — Check whether Java Development Kit (JDK) is installed on your computer.
+# Step 3 — Set the Java Path.
+# Step 4 — Download Eclipse Neon.
 
 
 ## Install the Necessary Software to learn program in Java
