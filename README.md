@@ -23,6 +23,12 @@ When you’re finished with this tutorial, you’ll be able to Download Eclipse 
 # Step 1 — Check whether Java Runtime Environment (JRE) is installed on your computer.
 # Using the Command-line to find Java Versions
 
+## Java Version under Windows Start Menu
+## Java Version in Windows Programs
+## By Navigating to the browser
+
+
+
 
 ## Install the Necessary Software to learn program in Java
 The steps and tools that you have to install and configure are:
