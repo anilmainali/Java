@@ -31,6 +31,9 @@ When you’re finished with this tutorial, you’ll be able to Download Eclipse 
 # Step 3 — Set the Java Path.
 # Step 4 — Download Eclipse Neon.
 
+# Conclusion
+# Resources
+
 
 ## Install the Necessary Software to learn program in Java
 The steps and tools that you have to install and configure are:
