@@ -27,7 +27,7 @@ When you’re finished with this tutorial, you’ll be able to Download Eclipse 
 ## Java Version in Windows Programs
 ## By Navigating to the browser
 
-
+# Step 2 — Check whether Java Development Kit (JDK) is installed on your computer.
 
 
 ## Install the Necessary Software to learn program in Java
