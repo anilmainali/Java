@@ -1,8 +1,5 @@
-# Java
-Getting Started With Java
-
-# About
-This Repo will be used as a tutorial on How To Get Started with Java.
+# Welcome to my Java ReopT
+I am just Getting Started With Java and this repo will act as an repository of all my notes as I dive deep and this repo will serve as a tutorial on How To Get Started with Java for those who has just started learning Java or thinking of getting started with Java.Hope this repo will help you to overcome the fear of learning Java.so, let's get started...
 
 ## What is Java?
 
