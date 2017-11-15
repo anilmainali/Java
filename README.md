@@ -33,6 +33,13 @@ When you’re finished with this tutorial, you’ll be able to Download Eclipse 
 
 # Conclusion
 # Resources
+To learn more about Eclipse here are some useful links:
+
+- Official website: https://eclipse.org/
+- Twitter: https://twitter.com/EclipseFdn
+- You Tube: https://www.youtube.com/user/EclipseFdn
+- Facebook Page: https://www.facebook.com/eclipse.org
+- Google Plus: https://plus.google.com/+Eclipse
 
 
 ## Install the Necessary Software to learn program in Java
