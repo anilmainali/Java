@@ -30,6 +30,8 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode)
 
 If you see the above response or similar to this then you are good to start writing program.
 
+## Hot to invoke java program from the command prompt? 
+
 
 ## Step 3 : Download Eclipse to use as an Integrated Development Environment (IDE)
 For this tutorial we are going to Download and install Eclipse IDE.For the complete step by step tutorial navigate to <a href="http://softwaretestingcafe.com/how-to-download-eclipse-neon-on-windows-7/"> Anil Mainali's Blog Post.
