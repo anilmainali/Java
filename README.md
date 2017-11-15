@@ -11,6 +11,8 @@ I am just Getting Started With Java and this repo will act as an repository of a
 - Configure JDK
 - Create first Java Program - HelloWorld
 
+When you’re finished with this tutorial, you’ll be able to Download Eclipse [Neon] on Windows7 Machine along with its prerequisites by following step by step instructions which is provided here in this tutorial.At the end of the additional tutorial resources, the link will be provided for you to explore and dive deep into Eclipse.
+
 ## What is Java?
 
 ## Install the Necessary Software to learn program in Java
