@@ -21,6 +21,7 @@ When you’re finished with this tutorial, you’ll be able to Download Eclipse 
 ## Prerequisites to install IntelliJ IDE
 
 # Step 1 — Check whether Java Runtime Environment (JRE) is installed on your computer.
+# Using the Command-line to find Java Versions
 
 
 ## Install the Necessary Software to learn program in Java
