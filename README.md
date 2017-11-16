@@ -28,6 +28,8 @@ Other benefits of learning Java is:
 - Java is a platform Independent.
 
 ## Is Java Free to Download?
+Yes.
+
 ## JRE vs JDK
 ## What you need to install in order get started with Java?
 ## Install the Necessary Software to learn program in Java
