@@ -17,6 +17,16 @@ When you’re finished with this tutorial, you’ll be able to Download Eclipse 
 Java is a programming language or Runtime Environment or both. It can be a  Programming language or Runtime Environment or both. Java was developed by Sun Microsystems in 1995. Later acquired by Oracle.
 
 ## Why Java?
+In order to have power over your computer, you need to learn Java. By learning Java you can talk to the computer and you can instruct the computer to do what you want it to do.
+
+Other benefits of learning Java is:
+
+- Java is popular
+- Java is simple
+- java is safe
+- java is very useful for the kinds of everyday tasks.
+- Java is a platform Independent.
+
 ## Is Java Free to Download?
 ## JRE vs JDK
 ## What you need to install in order get started with Java?
