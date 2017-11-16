@@ -75,8 +75,12 @@ If you see the above response or similar to this then you are good to start writ
 # Step 2 — Check whether Java Development Kit (JDK) is installed on your computer.
 # Step 3 — Set the Java Path.
 - Press the Windows key on your keyboard or click the Windows Start orb.
-
 - Right-click on Computer.Select and click Properties from the context menu.
+Select and click Advanced system settings link.
+
+Select Advanced.Click Environment Variables.
+
+Scroll down to the section System Variables, find the PATH environment variable and select it.
 
 
 # Step 4 — Download Eclipse Neon.
