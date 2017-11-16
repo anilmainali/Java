@@ -94,11 +94,9 @@ WARNING: Do not delete this path.Append the path with with semicolon;
 - Press the Windows key on your keyboard or click the Windows Start orb.
 - Click on computer.
 - Click on Windows7_OS(C:)
-under Hard Disk Drives.Scroll down select and click on Program Files
-
-Scroll down select and click on Java folder
-
-Click on jdk folder.
+- under Hard Disk Drives.Scroll down select and click on Program Files
+- Scroll down select and click on Java folder
+- Click on jdk folder.
 
 
 # Step 4 — Download Eclipse Neon.
