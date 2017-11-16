@@ -88,6 +88,12 @@ Note: The PATH environment variable is a series of directories separated by semi
 
 WARNING: Do not delete this path.Append the path with with semicolon;
 
+Add the location of the bin folder of the JDKinstallation to the PATH variable in System Variables.
+
+This may look like:C:Program FilesJavajdk1.8.0_121bin
+
+Tips: To find exactly the location of the bin folder of the JDK installation follow these steps:
+
 
 
 # Step 4 — Download Eclipse Neon.
