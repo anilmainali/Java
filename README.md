@@ -33,8 +33,13 @@ Yes.
 ## JRE vs JDK
 ## What you need to install in order get started with Java?
 An IDE IntelliJ IDE or Eclipse or any other tool which is made to write Java Programs.
+
 ## Install the Necessary Software to learn program in Java
+
 ## Prerequisites to install IntelliJ IDE
+- Java Runtime Environment (JRE)
+- Java Development Kit (JDK)
+
 The steps and tools that you have to install and configure are:
 
 1. Download Java Development Kit 
