@@ -84,6 +84,11 @@ If you see the above response or similar to this then you are good to start writ
 Tips: Select and Copy the Variable value and paste into your favorite text editor and save it.
 ~
 
+Note: The PATH environment variable is a series of directories separated by semicolons (;)
+
+WARNING: Do not delete this path.Append the path with with semicolon;
+
+
 
 # Step 4 — Download Eclipse Neon.
 
