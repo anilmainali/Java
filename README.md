@@ -100,6 +100,11 @@ WARNING: Do not delete this path.Append the path with with semicolon;
 - Click on bin folder.Select the entire path from the address bar.
 - Copy the path
 - Appending with a semicolon at end of existing path and paste the Path you just copied.
+Click OK.
+
+Click OK to close the Environment Variables dialog.
+
+Click OK to close the System Properties dialog.
 
 
 # Step 4 — Download Eclipse Neon.
