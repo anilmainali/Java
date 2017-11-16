@@ -79,6 +79,9 @@ If you see the above response or similar to this then you are good to start writ
 - Select and click Advanced system settings link.
 - Select Advanced.Click Environment Variables.
 - Scroll down to the section System Variables, find the PATH environment variable and select it.
+Click Edit.
+
+Tips: Select and Copy the Variable value and paste into your favorite text editor and save it.
 
 
 # Step 4 — Download Eclipse Neon.
