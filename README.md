@@ -97,6 +97,11 @@ WARNING: Do not delete this path.Append the path with with semicolon;
 - under Hard Disk Drives.Scroll down select and click on Program Files
 - Scroll down select and click on Java folder
 - Click on jdk folder.
+Click on bin folder.Select the entire path from the address bar.
+
+Copy the path
+
+Appending with a semicolon at end of existing path and paste the Path you just copied.
 
 
 # Step 4 — Download Eclipse Neon.
